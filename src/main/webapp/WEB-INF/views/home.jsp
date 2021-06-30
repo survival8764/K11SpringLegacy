@@ -149,6 +149,29 @@
 			</a>
 		</li>
 	</ul>
+	
+	<!-- 
+		세 가지의 어노테이션을 통해 new 키워드 없이 객체를
+		생성하여 프로그래밍 할 수 있다.
+	 -->
+	<h3>@Controller, @Service, @Repository 어노테이션</h3>
+	<h4>Auto Scan으로 자동으로 생성되는 빈</h4>
+	<ul>
+		<li>
+			<a href="./service/myService.do" target="_blank">
+				myService바로가기
+			</a>
+		</li>
+	</ul>
+	<ul>
+		<li>
+		<!-- resources 폴더에는 html파일을 생성후 직접 생성할 수 있다. -->
+			<a href="./resources/lottoForm.html" target="_blank">
+				Lotto바로가기
+			</a>
+		</li>
+	</ul>
+	
 	</div>
 </body>
 </html>
